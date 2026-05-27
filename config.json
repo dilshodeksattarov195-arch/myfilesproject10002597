@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingeender",
+        "uuid": 14706811,
+        "checksum": "5177r"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
